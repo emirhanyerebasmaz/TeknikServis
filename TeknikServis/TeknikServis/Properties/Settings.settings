@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TeknikServis.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Kontrol" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Hak" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="Key1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">~LQ'Q[_OA[#G^&amp;%</Value>
+    </Setting>
+    <Setting Name="Key2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">,J(.EV)!{Y+~H(,</Value>
+    </Setting>
+    <Setting Name="Key3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{IS&amp;GDDRBF_E,FP</Value>
+    </Setting>
+    <Setting Name="Key4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">H_G}T[~]&amp;%+V^Y,</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
